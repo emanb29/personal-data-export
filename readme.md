@@ -31,6 +31,7 @@ Contributions are welcome!
   - [X/Twitter](#x/twitter)
 - [Media](#media)
   - [Netflix](#netflix)
+  - [Pandora](#pandora)
   - [Spotify](#spotify)
 - [Health and Fitness](#health-and-fitness)
   - [Fitbit](#fitbit)
@@ -129,6 +130,12 @@ https://twitter.com/settings/download_your_data
 ### Netflix
 
 https://www.netflix.com/account/getmyinfo
+
+### Pandora
+
+https://pandora.com/privacy/redirect/privacychoices
+
+Note that Pandora only provides data export to residents of the following US States: California, Colorado, Connecticut, Utah, or Virginia. See https://www.siriusxm.com/help/privacy-rights for more information.
 
 ### Spotify
 
